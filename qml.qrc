@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>MainWindow.qml</file>
+        <file>MainAppScreen.qml</file>
+        <file>AppFooter.qml</file>
+        <file>HomeDataRow.qml</file>
+        <file>HomeDataPanel.qml</file>
+        <file>FooterButton.qml</file>
+    </qresource>
+</RCC>
